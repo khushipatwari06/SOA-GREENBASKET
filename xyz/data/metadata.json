@@ -1,0 +1,22 @@
+{
+  "bestselling": [
+    {
+      "category": "Accessories",
+      "product": "backpack"
+    },
+    {
+      "category": "Accessories",
+      "product": "watch"
+    }
+  ],
+  "editors_choice": [
+    {
+      "category": "Books",
+      "product": "Book"
+    },
+    {
+      "category": "Food",
+      "product": "banana"
+    }
+  ]
+}

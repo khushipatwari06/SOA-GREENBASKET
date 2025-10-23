@@ -1,0 +1,56 @@
+{
+  "Accessories/backpack": {
+    "price": 920.94
+  },
+  "Appliances/coffee_maker": {
+    "price": 470.91
+  },
+  "Appliances/microwave": {
+    "price": 335.31
+  },
+  "Appliances/vacuum_cleaner": {
+    "price": 393.32
+  },
+  "Books/book": {
+    "price": 212.8
+  },
+  "Clothing/tshirt": {
+    "price": 684.96
+  },
+  "Food/banana": {
+    "price": 320.33
+  },
+  "Furniture/desk_chair": {
+    "price": 711.35
+  },
+  "Furniture/table_lamp": {
+    "price": 812.41
+  },
+  "Tech/computer": {
+    "price": 929.13
+  },
+  "Tech/headphones": {
+    "price": 923.96
+  },
+  "Tech/smartphone": {
+    "price": 938.62
+  },
+  "Vehicles/car": {
+    "price": 445.58
+  },
+  "Accessories/watch": {
+    "price": "249.99"
+  },
+  "temp/1742819848306": {
+    "price": 313.07
+  },
+  "temp/1742820127857": {
+    "price": 475.36
+  },
+  "temp/1742820295730": {
+    "price": 714.93
+  },
+  "undefined/undefined": {
+    "price": 516.82
+  }
+}
